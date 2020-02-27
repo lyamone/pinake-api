@@ -1,0 +1,21 @@
+{
+  "name": "pinake-api",
+  "version": "1.0.0",
+  "description": "Pinake API ",
+  "main": "main.ts",
+  "dependencies": {
+    "@types/node": "^12.11.7",
+    "express": "^4.17.1",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Yamone",
+  "license": "ISC"
+}
